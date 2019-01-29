@@ -1,0 +1,8 @@
+number_first  11.605
+number_second  279
+real_result  0.041594982078853045
+result  0.041594982078853045
+number_first  2
+number_second  8.440999999999999
+real_result  0.2369387513327805
+result  0.2369387513327805

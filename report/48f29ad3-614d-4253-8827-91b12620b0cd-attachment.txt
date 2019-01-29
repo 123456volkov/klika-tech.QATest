@@ -1,0 +1,4 @@
+number_first  2
+number_second  11772
+real_result  0.00016989466530750936
+result  0.00016989466530750936

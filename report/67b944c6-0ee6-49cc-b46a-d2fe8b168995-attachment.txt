@@ -1,0 +1,4 @@
+number_first  272.92299999999994
+number_second  2.3
+real_result  118.66217391304346
+result  118.66217391304346

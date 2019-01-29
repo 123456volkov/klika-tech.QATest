@@ -1,0 +1,2 @@
+number_first  9.05
+number_second  0

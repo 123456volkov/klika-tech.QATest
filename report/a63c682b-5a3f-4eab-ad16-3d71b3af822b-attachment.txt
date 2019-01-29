@@ -1,0 +1,4 @@
+number_first  850
+number_second  9
+real_result  94.44444444444444
+result  94.44444444444444

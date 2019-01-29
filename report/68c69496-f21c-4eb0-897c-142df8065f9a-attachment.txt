@@ -1,0 +1,4 @@
+number_first  998.1345
+number_second  31928639
+real_result  0.00003126141706196747
+result  3.126141706196747e-05
