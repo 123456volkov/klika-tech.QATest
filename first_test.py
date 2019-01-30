@@ -7,7 +7,7 @@ class Testing(unittest.TestCase):
     def setUp(self):
         executable_path = "C:\Python37-32\chromedriver_win32\chromedriver.exe"
         self.driver = webdriver.Chrome(executable_path)
-        self.driver.get('http://qa-test.klika-tech.com')
+        self.driver.get('url')
         # self.driver.maximize_window()
         # self.driver.implicitly_wait(10)
 
